@@ -14,7 +14,6 @@
 /coverage
 
 #secrets
-/github
 /secrets
 
 # next.js
